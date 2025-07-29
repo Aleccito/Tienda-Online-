@@ -3,3 +3,7 @@ Programa de tienda online, objetivo, medir los tiempos de ordenamiento de difere
 
 
 XD DA PEREZA AGREGAR README :)
+ALEC BIRUET
+ESTEBAN DIMAS
+DANIEL ORTEGA
+RANDALL GUZMAN
