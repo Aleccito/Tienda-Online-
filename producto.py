@@ -9,10 +9,10 @@ class Productos:
         
     def __str__(self):
         return (
-            f"ID: {self.id_product} - "
-            f"Nombre: {self.nombre} - "
-            f"Categoría: {self.categoria} - "
-            f"Precio: {self.precio}$ - "
-            f"Stock: {self.stock} - "
+            f"ID: {self.id_product} | "
+            f"Nombre: {self.nombre} | "
+            f"Categoría: {self.categoria} | "
+            f"Precio: {self.precio}$ | "
+            f"Stock: {self.stock} | "
             f"Rating: {self.rate}/10"
         )

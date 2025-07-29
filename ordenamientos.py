@@ -1,3 +1,5 @@
+#Modulos de ordenamientos y el de busqueda
+
 def insertion_sort(productos, key=lambda x: x):
     n = len(productos)
     for i in range(1, n):
